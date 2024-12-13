@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const App = () => {
   return (
-    <div>Narendra</div>
-  )
-}
+    <>
+      <div>Narendra</div>
+      <div>Datta</div>
+    </>  
+  );
+};
 
-export default App
+export default App;
