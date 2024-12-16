@@ -1,14 +1,11 @@
-import React from "react";
-import Narendra from "./Narendra";
+// import React from 'react'
 
 const App = () => {
   return (
-    <>
-      <div>
-        <Narendra />
-      </div>
-    </>
-  );
-};
+    <div>
+      hello
+    </div>
+  )
+}
 
 export default App;
